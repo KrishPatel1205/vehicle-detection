@@ -30,3 +30,16 @@ A computer vision project built with [Ultralytics YOLO](https://github.com/ultra
 ```bash
 git clone https://github.com/yourusername/vehicle-detection-yolo.git
 cd vehicle-detection-yolo
+```
+
+2. **Run using command line
+
+```bash
+python3 yolo_detect.py --model my_model.pt --source <Destination to your video file> --resolution 1920x1080
+```
+
+alternatively run using your camera with 
+
+```bash
+python3 yolo_detect.py --model my_model.pt --source usb0 --resolution 1920x1080
+```
