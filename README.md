@@ -32,7 +32,7 @@ git clone https://github.com/yourusername/vehicle-detection-yolo.git
 cd vehicle-detection-yolo
 ```
 
-2. **Run using command line
+2. **Run using command line**
 
 ```bash
 python3 yolo_detect.py --model my_model.pt --source <Destination to your video file> --resolution 1920x1080
