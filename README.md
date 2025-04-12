@@ -28,8 +28,8 @@ A computer vision project built with [Ultralytics YOLO](https://github.com/ultra
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/vehicle-detection-yolo.git
-cd vehicle-detection-yolo
+git clone https://github.com/yourusername/vehicle-detection.git
+cd vehicle-detection
 ```
 
 2. **Run using command line**
