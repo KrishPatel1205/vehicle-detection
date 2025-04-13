@@ -24,6 +24,14 @@ A computer vision project built with [Ultralytics YOLO](https://github.com/ultra
 
 ![demo gif or image here, optional]
 
+| Before | After   |
+|----|--------------|
+| ![demo gif or image here, optional]  | ![demo gif or image here, optional]    |
+
+
+
+
+
 ## 🧰 Installation
 
 1. **Clone the repository**
