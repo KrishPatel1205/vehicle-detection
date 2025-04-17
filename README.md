@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/f3eb9aaf-2a6b-4388-89fa-441590caaeb8
 https://github.com/user-attachments/assets/9e4c934b-5703-4e57-8b13-65de4c09066f
 
 
-Example 3:
+### Example 3:
 
 **Before:**
 
