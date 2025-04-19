@@ -29,13 +29,11 @@ The model was **custom-trained** on a dataset I created from scratch using real-
 
 ### Example 1
 
-**Before:**  
 
-[https://github.com/user-attachments/assets/0d61d228-75fd-4159-ae85-7a298b14a285](https://github.com/user-attachments/assets/0d61d228-75fd-4159-ae85-7a298b14a285)
 
-**After:**  
+https://github.com/user-attachments/assets/18094094-1229-4e02-8b5b-4a81cd6e2cd5
 
-[https://github.com/user-attachments/assets/40056ad8-b4b8-4edc-b6ea-f364281e747c](https://github.com/user-attachments/assets/40056ad8-b4b8-4edc-b6ea-f364281e747c)
+
 
 ---
 
