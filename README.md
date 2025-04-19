@@ -29,37 +29,21 @@ The model was **custom-trained** on a dataset I created from scratch using real-
 
 ### Example 1
 
-**Before:**  
 
-[https://github.com/user-attachments/assets/0d61d228-75fd-4159-ae85-7a298b14a285](https://github.com/user-attachments/assets/0d61d228-75fd-4159-ae85-7a298b14a285)
 
-**After:**  
+https://github.com/user-attachments/assets/18094094-1229-4e02-8b5b-4a81cd6e2cd5
 
-[https://github.com/user-attachments/assets/40056ad8-b4b8-4edc-b6ea-f364281e747c](https://github.com/user-attachments/assets/40056ad8-b4b8-4edc-b6ea-f364281e747c)
+
 
 ---
 
 ### Example 2
 
-**Before:**  
 
-[https://github.com/user-attachments/assets/f3eb9aaf-2a6b-4388-89fa-441590caaeb8](https://github.com/user-attachments/assets/f3eb9aaf-2a6b-4388-89fa-441590caaeb8)
 
-**After:**  
+https://github.com/user-attachments/assets/6a7f8531-5e98-414b-a64e-d29872e4aa26
 
-[https://github.com/user-attachments/assets/9e4c934b-5703-4e57-8b13-65de4c09066f](https://github.com/user-attachments/assets/9e4c934b-5703-4e57-8b13-65de4c09066f)
 
----
-
-### Example 3
-
-**Before:**  
-
-[https://github.com/user-attachments/assets/1ed357f9-3f5e-4306-8181-bb10b65c3f79](https://github.com/user-attachments/assets/1ed357f9-3f5e-4306-8181-bb10b65c3f79)
-
-**After:**  
-
-[https://github.com/user-attachments/assets/2a2386ba-a3ac-4f52-8043-67295e816918](https://github.com/user-attachments/assets/2a2386ba-a3ac-4f52-8043-67295e816918)
 
 
 ## 🧰 Installation
