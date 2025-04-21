@@ -1,4 +1,4 @@
-# 🚗 Vehicle Detection using YOLO
+# 🚗 Vehicle Detection
 
 This project is a real-time vehicle detection system built using [Ultralytics YOLO](https://github.com/ultralytics/ultralytics). It identifies and classifies different types of vehicles in both live webcam feeds and pre-recorded videos.
 
